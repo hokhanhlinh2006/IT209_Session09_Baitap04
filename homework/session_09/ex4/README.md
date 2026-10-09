@@ -27,3 +27,5 @@ Khi chạy lệnh đọc file, Terminal in ra đúng dòng chữ:
 ```
 Luu tru du lieu Docker
 ```
+<img width="1100" height="310" alt="ex4_ss09" src="https://github.com/user-attachments/assets/04520e9f-5a21-4eb6-9521-160228c6aa60" />
+
